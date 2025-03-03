@@ -5,10 +5,11 @@ Hello there! My name is Christopher Paul and I'm a software engineer with a pass
 Master's degree in Software Engineering from PUCMM
 
 # Skills
-Programming languages: Java, C, C++ and C#.
-Frameworks and libraries: SpringBoot, Javalin and Django
-Databases: MySQL, PostgreSQL, MongoDB
-Tools: Git and Docker
+## Programming languages: Java, C, C++ and C#.
+## Frameworks and libraries: SpringBoot, Javalin and Django
+## Databases: MySQL, PostgreSQL, MongoDB
+
+## Tools: Git and Docker
 
 # Projects
 Here are some of the projects I've worked on recently:
