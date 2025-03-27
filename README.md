@@ -1,4 +1,4 @@
-# Christopher Paul
+![alt text](<IMA_TIENDA/Screenshot 2025-03-26 230846.png>)# Christopher Paul
 Hello there! My name is Christopher Paul and I'm a software engineer with a passion for creating high-quality, scalable applications. I have experience working with a variety of programming languages, including Java, C, C# and C++, and I'm always looking to learn more.
 
 # Education
